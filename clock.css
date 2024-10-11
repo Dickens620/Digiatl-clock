@@ -1,0 +1,19 @@
+body {
+    background-color: silver;
+}
+
+#clock {
+    font-size: 180px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 6px solid rgb(177, 27, 27);
+    border-radius: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+#y {
+    color: violet;
+    text transform: uppercase;
+}
